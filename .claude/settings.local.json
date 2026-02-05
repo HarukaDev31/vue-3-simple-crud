@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(dir:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run dev:*)",
+      "Bash(timeout:*)",
+      "Bash(npm run storybook:*)",
+      "Bash(ping:*)",
+      "Bash(findstr:*)",
+      "Bash(npm run build:*)",
+      "Bash(git reset:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
